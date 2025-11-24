@@ -81,6 +81,9 @@ SCREENSHOTS:-
 
   <img width="812" height="380" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/b9a49364-a466-4ff9-b0bd-08c2fdda36a4" />
 
+  <img width="866" height="409" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f6a36c0e-cbd5-4058-9c2f-e6f1e44d7f7c" />
+
+
 
 
 
